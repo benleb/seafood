@@ -1,0 +1,2 @@
+# seafood
+Receipt for Opensea.
